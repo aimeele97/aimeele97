@@ -4,6 +4,7 @@ I am passionate about working as a Data Analyst within the Financial Services In
 
 My ultimate goal is to transform data into actionable insights and contribute to business success.
 
-📩 Gmail: aimee.le2024@gmail.com.
-📲 LinkedIn: www.linkedin.com/in/aimeele97.
+📩 Gmail: aimee.le2024@gmail.com  
+📲 LinkedIn: [linkedin.com/in/aimeele97](https://www.linkedin.com/in/aimeele97)
+
 
