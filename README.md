@@ -8,4 +8,4 @@ My ultimate goal is to transform data into actionable insights and contribute to
 
 📲 LinkedIn: [linkedin.com/in/aimeele97](https://www.linkedin.com/in/aimeele97)
 
-
+🎓 Certification: [IBM Data Analyst](https://coursera.org/share/630e9c1598367f752e30e3a595e04552)
