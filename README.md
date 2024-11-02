@@ -6,9 +6,7 @@ My ultimate goal is to transform complex data into actionable insights that empo
 
 📩 Contact me via gmail: aimee.le2024@gmail.com
 
-###
-Additional resources:
-###
+### Additional resources: ###
 
 🔗 My porfolio website: [datascienceportfol.io](https://www.datascienceportfol.io/aimeele2024)
 
