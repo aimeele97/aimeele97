@@ -4,7 +4,7 @@ I am passionate about working as a Data Analyst within the Financial Services In
 
 My ultimate goal is to transform complex data into actionable insights that empower decision-makers and drive impactful business outcomes.
 
-🔗 My porfolio website: [datascienceportfol.io/aimeele2024(https://www.datascienceportfol.io/aimeele2024)
+🔗 My porfolio website: [datascienceportfol.io/aimeele2024](https://www.datascienceportfol.io/aimeele2024)
 
 📩 Contact me via gmail: aimee.le2024@gmail.com  
 
