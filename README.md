@@ -1,4 +1,4 @@
-**Hey, my name is Aimee Le** 👋
+## Hey, my name is Aimee Le 👋 ##
 
 I am passionate about working as a Data Analyst within the Financial Services Industry.
 
