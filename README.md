@@ -9,7 +9,7 @@ My ultimate goal is to transform complex data into actionable insights that empo
 
 **Additional resources:**
 
-🔗 My porfolio website: [datascienceportfol.io](https://www.datascienceportfol.io/aimeele2024)
+🔗 My porfolio website: [aimeele97.github.io][https://aimeele97.github.io/aimee-s_portfolio/]
 
 📈 My Tableau page: [public.tableau.com](https://public.tableau.com/app/profile/aimee.le9707)
 
