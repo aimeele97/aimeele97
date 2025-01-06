@@ -14,5 +14,3 @@ My ultimate goal is to transform complex data into actionable insights that empo
 📈 My Tableau page: [public.tableau.com](https://public.tableau.com/app/profile/aimee.le9707)
 
 📲 My LinkedIn: [linkedin.com](https://www.linkedin.com/in/aimeele97)
-
-🎓 Certification: [IBM Data Analyst](https://coursera.org/share/630e9c1598367f752e30e3a595e04552)
