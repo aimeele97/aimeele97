@@ -11,6 +11,6 @@ My ultimate goal is to transform complex data into actionable insights that empo
 
 🔗 My Analytics Portfolio Site: [aimeele97.github.io](https://aimeele97.github.io/aimee-s_portfolio/)
 
-📈 My Tableau page: [public.tableau.com](https://public.tableau.com/app/profile/tien.le2550/vizzes))
+📈 My Tableau page: [public.tableau.com](https://public.tableau.com/app/profile/tien.le2550/vizzes)
 
 📲 My LinkedIn: [linkedin.com](https://www.linkedin.com/in/aimeele97)
