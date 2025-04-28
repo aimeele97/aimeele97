@@ -1,8 +1,6 @@
 **Hey, my name is Aimee Le 👋**
 
-I am passionate about working as a Data Analyst within the Financial Services Industry.
-
-My ultimate goal is to transform complex data into actionable insights that empower decision-makers and drive impactful business outcomes.
+I am passionate about working as a Data Analyst, where I can blend analytical thinking with real-world problem solving. My ultimate goal is to transform complex data into actionable insights that empower decision-makers and drive impactful business outcomes.
 
 📩 Contact me via gmail: aimee.le2024@gmail.com
 <p>&nbsp;</p>
