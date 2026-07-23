@@ -1,7 +1,4 @@
-**Hey, my name is Aimee Le 👋**
 
-I am passionate about working as a Data Analyst, where I can blend analytical thinking with real-world problem solving. My ultimate goal is to transform complex data into actionable insights that empower decision-makers and drive impactful business outcomes.
-<p>&nbsp;</p>
 
 **Additional resources:**
 
